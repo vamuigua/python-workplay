@@ -1,1 +1,1 @@
-names = {"Victor","Joel","Brian","Kim"}
+Victor
